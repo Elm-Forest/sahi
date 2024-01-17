@@ -5,19 +5,19 @@ from typing import Optional
 
 
 class Yolov8TestConstants:
-    YOLOV8N_MODEL_URL = "https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt"
+    YOLOV8N_MODEL_URL = "https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8n.pt"
     YOLOV8N_MODEL_PATH = "tests/data/models/yolov8/yolov8n.pt"
 
-    YOLOV8S_MODEL_URL = "https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8s.pt"
+    YOLOV8S_MODEL_URL = "https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8s.pt"
     YOLOV8S_MODEL_PATH = "tests/data/models/yolov8/yolov8s.pt"
 
-    YOLOV8M_MODEL_URL = "https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8m.pt"
+    YOLOV8M_MODEL_URL = "https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8m.pt"
     YOLOV8M_MODEL_PATH = "tests/data/models/yolov8/yolov8m.pt"
 
-    YOLOV8L_MODEL_URL = "https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8l.pt"
+    YOLOV8L_MODEL_URL = "https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8l.pt"
     YOLOV8L_MODEL_PATH = "tests/data/models/yolov8/yolov8l.pt"
 
-    YOLOV8X_MODEL_URL = "https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8x.pt"
+    YOLOV8X_MODEL_URL = "https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8x.pt"
     YOLOV8X_MODEL_PATH = "tests/data/models/yolov8/yolov8x.pt"
 
 
