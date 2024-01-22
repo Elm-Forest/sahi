@@ -71,6 +71,7 @@ def get_slice_bboxes(
         x_overlap = int(overlap_width_ratio * slice_width)
     elif auto_slice_resolution:
         x_overlap, y_overlap, slice_width, slice_height = get_auto_slice_params(height=image_height, width=image_width)
+        print("x_overlap, y_overlap, slice_width, slice_height",x_overlap, y_overlap, slice_width, slice_height)
     else:
         raise ValueError("Compute type is not auto and slice width and height are not provided.")
 
